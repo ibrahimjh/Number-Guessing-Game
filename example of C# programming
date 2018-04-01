@@ -1,0 +1,10 @@
+using system;
+
+class Test
+{
+ static void Main()
+ {
+  int x = 12 * 30;
+  Console.Writeline (x);
+ }
+}
